@@ -18,16 +18,16 @@ Happy to track other interest.  My interest is:
 ## Not Currently Supported (Nov 21, 2021)
 
 * Many Docker images [1]
-
 * [divvy](https://mizage.com/divvy/) - likely to find another windows manager.  It's hard to find one that doesn't consume all the keymaps for a developer.
 * [evernote](https://evernote.com/) - Lots of unanswered questions around M1 support.  This one is frustrating, it is the one tool I commonly have up that is NOT M1 optimized.  Starting this app, seems to create a process `com.apple.speech.speechsynthesisd` which hangs around after evernote is closed.
+* Istio which will be covered under [k8s](k8s).
 
 
 ## Work Arounds / Concerns
 
 * [Powerlevel10k oh-my-zsh theme](p10k)
 * [NodeJS](nodejs)
-* Network [ports](ports)
+* Network [ports](monterey#ports)
 * [Kubernetes](k8s)
 
 ## Odd and Needs Investigating
