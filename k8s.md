@@ -22,3 +22,11 @@ From the event logs
 * May need to upgrade istio
 
 Next step is to get an exact configuration match with older laptop and work from there.  I'm unable to find others having this issue on the inter-webs.
+
+## Updates
+
+* Ran into this from Apr 2021: [Istio does not currently support ARM](https://github.com/istio/istio/issues/30829) which includes a fix the istiod: https://github.com/istio/istio/issues/30829#issuecomment-903158774
+But does not fix the side cars
+
+Time to make the donuts!
+
